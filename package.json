@@ -4,6 +4,14 @@
   "description": "Official Quickpay.ge Node.js / TypeScript SDK",
   "license": "MIT",
   "author": "Quickpay.ge",
+  "homepage": "https://github.com/QuickPayGe/node-sdk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuickPayGe/node-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QuickPayGe/node-sdk/issues"
+  },
   "engines": {
     "node": ">=18"
   },
